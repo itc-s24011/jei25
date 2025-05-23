@@ -3,4 +3,5 @@ public class D48Q17kadai {
         int n = 1;
         System.out.println(++n + " " + --n );
     }
+
 }
